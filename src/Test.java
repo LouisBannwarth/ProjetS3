@@ -5,9 +5,3 @@ qsd
 
 qsd
 qs
-d
-sq
-d
-qs
-d
-q
